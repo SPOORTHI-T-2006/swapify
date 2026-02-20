@@ -34,3 +34,7 @@ npm start
 - Frontend: React.js
 - Backend: Node.js, Express
 - Database: MongoDB
+
+## 📊 Project Language Breakdown
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SPOORTHI-T-2006&repo=swapify&layout=compact)
